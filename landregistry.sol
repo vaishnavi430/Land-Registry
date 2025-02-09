@@ -60,3 +60,4 @@ contract LandRegistry {
         return lands[_id].registered;
     }
 }
+
